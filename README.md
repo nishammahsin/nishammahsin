@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Nisham Mahsin
 
-<!--
-**nishammahsin/nishammahsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Full Stack Developer & Tech Lead at ResMed
+🛠️ Weekend Builder & Night Coder
 
-Here are some ideas to get you started:
+## 🚀 Quick Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Leading dev teams at ResMed
+- 🌙 Building side projects in free time
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/nisham-mahsin-79004256/) | [Twitter](https://x.com/nisham__mahsin)
+
